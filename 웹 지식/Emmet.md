@@ -115,7 +115,7 @@
 
 - 넘버링 $ <br>
 순서대로 나열 <br>
-`ul>li.item$5`
+`ul>li.item$*5`
 ```html
 <ul>
    <li class="item1"></li>
