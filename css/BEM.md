@@ -1,8 +1,10 @@
 # BEM
 
-클래스 명명 규칙
+[1. 블록(block)](#1-블록block) <br>
+[2. 요소(Element)](#2-요소element) <br>
+[3. 수정자(modifier)](#3-수정자modifier)
 
-<br>
+클래스 명명 규칙
 
 ## BEM을 쓰는 이유?
 

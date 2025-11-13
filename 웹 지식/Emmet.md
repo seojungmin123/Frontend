@@ -1,4 +1,10 @@
-#1 Emmet(에밋)
+# Emmet(에밋)
+
+[1. html](#html) <br>
+[2. css](#css)
+
+---
+
 몇가지 코드를 입력하면 자동으로 완성해주는 기능
 
 모든 에밋 : https://docs.emmet.io/cheat-sheet/
